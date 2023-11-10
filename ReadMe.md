@@ -40,7 +40,7 @@ There are two different branches associated with this lesson.
   Using Bootstrap only, include a modal into the index.html document.
     - The button to trigger it should be nested into the navbar.
     - Change the default color of the button to have a yellow design
-    - Futher challenge, inject a form or table within the modal.
+    - Further challenge, inject a form or table within the modal.
       - The information within the table could be hard-coded for this challenge.
       - A form could have a "username", "email", and "password" field as if it were a type of "login".
 */
